@@ -52,3 +52,5 @@ The import direction is strictly one-way: `main` -> `app` -> `ecosystem` -> `gri
 | Wolf            | energy from eating sheep  | 10      | energy restored when wolf kills sheep           |
 | Speed           | steps / second            | 15      | simulation rate                                 |
 
+## Presentation Video
+https://youtu.be/uK9JV0BkDc4?si=TmrMItZSfTM2Tx6n
